@@ -8,7 +8,7 @@ export const companyDetails = {
   name: "Kalyx AI Labs",
   address: "525T Sector 42 Gurgaon, Haryana, 122002, India",
   phone: "+91-9953360965",
-  email: "abc@example.com",
+  email: "info@kalyxailabs.com",
   instagram: "https://www.instagram.com/kalyxailabs/",
   linkedin: "https://www.linkedin.com/company/106725954/admin/dashboard/",
   facebook: "https://www.facebook.com/profile.php?id=61554934723617",
