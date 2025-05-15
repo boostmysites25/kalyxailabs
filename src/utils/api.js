@@ -1,7 +1,7 @@
 import axios from "axios";
 
-const baseUrl = "http://localhost:5000/api";
-// const baseUrl = "https://kalyxailabs-blogplatform-backend.vercel.app/api";
+// const baseUrl = "http://localhost:5000/api";
+const baseUrl = "https://kalyxailabs-blogplatform-backend.vercel.app/api";
 
 // get all blogs (published)
 export const getBlogs = () => axios.get(`${baseUrl}/blogs/published`);
